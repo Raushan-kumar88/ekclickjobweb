@@ -49,7 +49,7 @@ interface SiteSettings {
 
 const DEFAULT_SETTINGS: SiteSettings = {
   siteName: "EkClickJob",
-  siteTagline: "Find Your Dream Job in One Click",
+  siteTagline: "Find Your Dream Jobs in One Click",
   contactEmail: "contact@ekclickjob.com",
   supportEmail: "support@ekclickjob.com",
   messagingEnabled: true,
