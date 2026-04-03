@@ -10,7 +10,7 @@ import { INDUSTRIES } from "@/lib/utils/constants";
 import { cn } from "@/lib/utils";
 
 const COMPANY_SIZES = ["1-10", "11-50", "51-200", "201-500", "500+"];
-
+//
 function CompanyCardSkeleton() {
   return (
     <div className="rounded-2xl border bg-card p-5 space-y-3 animate-pulse">
